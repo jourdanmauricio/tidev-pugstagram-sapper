@@ -18,7 +18,8 @@
 <style>
   .Sidebar {
     position: relative;
-    padding: 4.5em 0 0 0;
+    padding: 0;
+    margin-top: 4.55em;
   }
   .Sidebar-container {
     position: fixed;
