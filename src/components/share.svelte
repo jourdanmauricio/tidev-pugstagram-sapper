@@ -6,7 +6,7 @@
   <div class="Share-content">
     <div class="Share-facebook">
       <a
-        href="https://www.facebook.com/sharer/sharer.php?&u=https://pugstagram.co/"
+        href="https://www.facebook.com/sharer/sharer.php?&u=https://tidev-pugstagram.netlify.app/"
         target="_blank"
       >
         <i class="fab fa-facebook-square" />
